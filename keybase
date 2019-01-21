@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am pighair47 on github.
+  * I am pighair47 (https://keybase.io/pighair47) on keybase.
+  * I have a public key ASD3Ul3q07_vUNrWO8MqyhiHWXJWvPvqwzvWYr1-s4ElvAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f7525dead3bfef50dad63bc32aca1887597256bcfbeac33bd662bd7eb38125bc0a",
+      "host": "keybase.io",
+      "kid": "0120f7525dead3bfef50dad63bc32aca1887597256bcfbeac33bd662bd7eb38125bc0a",
+      "uid": "f54b854498aca8c7ba445e3727ad3b19",
+      "username": "pighair47"
+    },
+    "merkle_root": {
+      "ctime": 1548041050,
+      "hash": "a0f507b3d83c34834fa8e101076b0d191ba71e352b7ac53352cdea392fdff917fc85185eea972e492f4d8c007a3763f3b8395678b0a42a945842ab1b048dba1c",
+      "hash_meta": "2aca9655e4af51c13a5aa42c8b19f01fe15bbb05051f9882205ac05c3493ceac",
+      "seqno": 4507494
+    },
+    "service": {
+      "entropy": "3n60h4K6cwIFF9HU99F4H5j9",
+      "name": "github",
+      "username": "pighair47"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.1"
+  },
+  "ctime": 1548041070,
+  "expire_in": 504576000,
+  "prev": "0b4be6bc84b41bc13faa5aec456443fdb987959a72747a4ab51411621757ac59",
+  "seqno": 12,
+  "tag": "signature"
+}
+```
+
+with the key [ASD3Ul3q07_vUNrWO8MqyhiHWXJWvPvqwzvWYr1-s4ElvAo](https://keybase.io/pighair47), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg91Jd6tO/71Da1jvDKsoYh1lyVrz76sM71mK9frOBJbwKp3BheWxvYWTESpcCDMQgC0vmvIS0G8E/qlrsRWRD/bmHlZpydHpKtRQRYhdXrFnEIB4jxnxO1hgpwhE0tAhSBGwkB9+Ldr6j94B0vFpQ9b0KAgHCo3NpZ8RAchw156kEGr0ZTUPZOt/kwwJ5HYQuzVL26mZw3MDf+axWGs3byNTRNfqNcbAqLtM1sYeIz+SKrQLFLWRBQh5tCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFdkOvS9ov+2VvR9GSsWHzwvvuEYTHReR6ebt5qP2zfYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/pighair47
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id pighair47
+```
